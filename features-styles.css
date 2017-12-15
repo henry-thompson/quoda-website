@@ -1,0 +1,256 @@
+@charset "utf-8";
+
+/* Features page styles */
+#features-heading {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 150px;
+   margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#features-heading-text {
+   position: absolute;
+   top: 0px;
+   display: block;
+   max-width: 1000px;
+   z-index: 2;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+#codecompletion {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 250px;
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#codecompletion-image {
+   float: left;
+   width: 569px;
+   margin-left: 50px;
+   margin-top: 10px;
+}
+
+#codecompletion-text {
+   position: absolute;
+   left: 500px;
+   display: block;
+   max-width: 500px;
+   z-index: 2;
+   margin-right: 50px;
+}
+
+#syntaxhighlighting {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 330px;
+   margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#syntaxhighlighting-image {
+   float: right;
+   width: 425px;
+   padding-right: 50px;
+}
+
+#syntaxhighlighting-text {
+   float: right;
+   position: absolute;
+   top: 40px;
+   right: 530px;
+   display: block;
+   max-width: 600px;
+   z-index: 2;
+   margin-left: 50px;
+}
+
+#connections {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 320px;
+   margin-top: 60px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#connections-image {
+   float: left;
+   width: 569px;
+   margin-left: 50px;
+}
+
+#connections-text {
+   position: absolute;
+   left: 450px;
+   display: block;
+   max-width: 650px;
+   z-index: 2;
+   margin-right: 50px;
+   margin-top: 60px;
+}
+
+#snippets {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 330px;
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#snippets-image {
+   float: right;
+   width: 425px;
+   padding-right: 50px;
+}
+
+#snippets-text {
+   float: right;
+   position: absolute;
+   top: 25px;
+   right: 530px;
+   display: block;
+   max-width: 600px;
+   z-index: 2;
+   margin-left: 50px;
+}
+
+#findreplace {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 320px;
+   margin-top: 60px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#findreplace-image {
+   float: left;
+   width: 380px;
+   height: 320px;
+   margin-left: 50px;
+}
+
+#findreplace-text {
+   position: absolute;
+   left: 450px;
+   display: block;
+   max-width: 650px;
+   z-index: 2;
+   height: 320px;
+   margin-right: 50px;
+   margin-top: 86px;
+}
+
+#keys {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 330px;
+   margin-top: 70px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#keys-image {
+   float: right;
+   width: 425px;
+   padding-right: 50px;
+}
+
+#keys-text {
+   float: right;
+   position: absolute;
+   top: 40px;
+   right: 530px;
+   display: block;
+   max-width: 600px;
+   z-index: 2;
+   margin-left: 50px;
+}
+
+#tablet {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 320px;
+   margin-top: 60px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#tablet-image {
+   float: left;
+   width: 500px;
+   margin-left: 50px;
+}
+
+#tablet-text {
+   position: absolute;
+   left: 600px;
+   display: block;
+   max-width: 350px;
+   z-index: 2;
+   margin-right: 50px;
+   margin-top: 50px;
+}
+
+#more {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 300px;
+   margin-top: 60px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#more-title {
+   float: left;
+   position: absolute;
+   left: 50px;
+   display: block;
+   width: 1000px;
+   height: 70px;
+   z-index: 2;
+}
+
+.more-column {
+   float: left;
+   width: 425px;
+   margin-top: 70px;
+   margin-left: 50px;
+   list-style-position: inside;
+}
+
+#bottom-spacing {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   height: 100px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#release-spacing {
+   position: relative;
+   width: 1000px;
+   min-width: 1000px;
+   top: 1300px;
+   height: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
